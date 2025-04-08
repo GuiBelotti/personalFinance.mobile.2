@@ -1,4 +1,4 @@
-package com.example.mobile_2_parcial
+package com.example.mobile_parcial
 
 import io.flutter.embedding.android.FlutterActivity
 
